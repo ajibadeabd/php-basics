@@ -1,0 +1,22 @@
+{
+    "movies":[
+        {
+            "title":"the flash",
+            "year":"1989",
+            "genre":"drama",
+            "director":"kayle xy"
+        },
+        {
+            "title":"the slow",
+            "year":"1911",
+            "genre":"comedy",
+            "director":"kayle xx"
+        },
+        {
+            "title":"commando",
+            "year":"1729",
+            "genre":"action",
+            "director":"brad traversy"
+        }
+    ]
+}
